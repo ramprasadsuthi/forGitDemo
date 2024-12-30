@@ -6,6 +6,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test2 program");
+		//This line is added from GITHUB
 
 	}
 
